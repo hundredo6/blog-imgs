@@ -1,2 +1,2 @@
-# blog-img
+# blog-imgs
 图床
